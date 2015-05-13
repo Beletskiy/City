@@ -1,0 +1,10 @@
+{
+    "name": "beletskiy/city",
+    "authors": [
+        {
+            "name": "Alexey Beletskiy",
+            "email": "alexey1beletskiy@gmail.com"
+        }
+    ],
+    "require": {}
+}
