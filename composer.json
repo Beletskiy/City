@@ -3,7 +3,7 @@
     "require": {}
     {
     "autoload": {
-        "classmap": [town.php"]
+        "classmap": ["town.php"]
     }
 }
 }
