@@ -1,6 +1,6 @@
 <?php
   header("Content-Type: text/html; charset=utf-8");
-   include("flat.php");
+ //  include("flat.php");
    
    class Building{
        
