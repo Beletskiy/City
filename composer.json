@@ -1,9 +1,8 @@
 {
     "name": "beletskiy/city",
-    "require": {}
-    {
+    "require": {},
+    
     "autoload": {
         "classmap": ["town.php"]
     }
-}
 }
